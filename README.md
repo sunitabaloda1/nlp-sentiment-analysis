@@ -8,6 +8,7 @@ A comparative sentiment analysis project evaluating three different NLP approach
 
 The project compares predictive performance, computational cost, inference speed, and practical suitability for production deployment.
 
+![Overall NLP Pipeline Architecture](nlp_pipeline_architecture.png)
 ---
 
 ## 1. Project Overview
