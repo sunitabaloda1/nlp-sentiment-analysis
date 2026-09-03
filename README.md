@@ -199,6 +199,13 @@ All three approaches were evaluated using the same 400-review held-out test set.
 | PyTorch Embedding + LSTM | 53.75% | 57.43% | 29.00% | 0.3854 | 550.9 s | 2.2820 s |
 | NLTK VADER | 64.75% | 61.13% | 81.00% | 0.6968 | N/A | 6.7448 s |
 
+### Model Performance Comparison
+
+The following comparison summarizes the predictive performance and operational cost of the three evaluated sentiment analysis pipelines.
+
+![Model Performance Comparison](model_comparison.png)
+
+
 ### Key Findings
 
 The comparison shows that:
