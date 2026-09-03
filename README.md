@@ -326,6 +326,8 @@ Model selection was based not only on predictive performance but also on operati
 
 ## 13. Production Recommendation
 
+![Production Recommendation](production_recommendation.png)
+
 ### Recommended Model: TF-IDF + Logistic Regression
 
 For the current use case, **TF-IDF + Logistic Regression is the recommended production model**.
